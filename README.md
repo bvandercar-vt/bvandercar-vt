@@ -1,10 +1,5 @@
 # Blake Vandercar
 
-
-
-<!-- ![GitHub followers](https://img.shields.io/github/followers/bvandercar-vt?logo=github&style=for-the-badge) -->
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=nbvandercar-vt&style=for-the-badge&colorA=black) -->
-
 ## 🛠️ Skills
 
 ### Frontend
