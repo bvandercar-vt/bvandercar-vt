@@ -8,15 +8,15 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="64" height="64" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="64" height="64" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" title="NPM" alt="NPM" width="64" height="64" />&nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-workdmark.svg" title="Yarn" alt="Yarn" width="64" height="64" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="64" height="64" />&nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" title="Yarn" alt="Yarn" width="64" height="64" />&nbsp;
 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="64" height="64"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="64" height="64"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="React" alt="React" width="64" height="64 "/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original-wordmark.svg" title="Cypress" alt="Cypress" width="64" height="64" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-original-wordmark.svg" title="Jest" alt="Jest" width="64" height="64" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="64" height="64" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" title="Eslint" alt="Eslint" width="64" height="64" />&nbsp;
 </div>
 <div>
