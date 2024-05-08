@@ -35,5 +35,8 @@
   <img align="center" src="/github-metrics.svg" alt="Metrics">
 </picture>
 <picture>
-  <img align="center" src="/languages.svg" alt="Most used languages">
+  <img align="center" src="/languages.svg" alt="Languages">
+</picture>
+<picture>
+  <img align="center" src="/lines.svg" alt="Lines">
 </picture>
