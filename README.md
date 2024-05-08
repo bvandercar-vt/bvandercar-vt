@@ -1,6 +1,6 @@
 # Blake Vandercar
 
-## 🛠️ Skills
+## Skills
 
 ### Frontend
 
@@ -32,7 +32,7 @@
 
 </div>
 
-## ✨ Stats
+## Stats
 
 <picture>
   <img align="center" src="/github-metrics.svg" alt="Metrics">
