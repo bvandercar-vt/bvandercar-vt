@@ -34,6 +34,9 @@
 
 ## Stats
 
-
-<img align="center" src="/github-metrics.svg" alt="Metrics">
-<img align="center" src="/languages.svg" alt="Most used languages">
+<picture>
+  <img align="center" src="/github-metrics.svg" alt="Metrics">
+</picture>
+<picture>
+  <img align="center" src="/languages.svg" alt="Most used languages">
+</picture>
