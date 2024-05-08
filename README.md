@@ -1,5 +1,3 @@
-# Blake Vandercar
-
 ## Skills
 
 ### Frontend
