@@ -40,8 +40,8 @@ jobs:
           plugin_languages_sections: recently-used, most-used
           # plugin_languages_analysis_timeout_repositories: 15
           # plugin_languages_analysis_timeout: 30
-          # plugin_languages_recent_load: 400
-          # plugin_languages_recent_days: 300
+          plugin_languages_recent_load: 400
+          plugin_languages_recent_days: 365
 
       # - name: Lines
       #   uses: lowlighter/metrics@latest
