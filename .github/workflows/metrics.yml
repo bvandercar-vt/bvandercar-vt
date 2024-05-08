@@ -19,6 +19,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: America/Denver
+          base: header, activity
 
       - name: 🈷️ Most used languages
         uses: lowlighter/metrics@latest
