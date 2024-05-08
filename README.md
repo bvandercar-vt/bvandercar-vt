@@ -37,6 +37,4 @@
 <picture>
   <img align="center" src="/languages.svg" alt="Languages">
 </picture>
-<picture>
-  <img align="center" src="/lines.svg" alt="Lines">
-</picture>
+
