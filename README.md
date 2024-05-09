@@ -37,4 +37,7 @@
 <picture>
   <img align="center" src="/languages.svg" alt="Languages">
 </picture>
+<picture>
+  <img align="center" src="/pull_requests.svg" alt="Languages">
+</picture>
 
