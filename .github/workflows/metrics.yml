@@ -53,3 +53,14 @@ jobs:
       #     plugin_lines_delay: 30
       #     plugin_lines_sections: repositories, history
       #     plugin_lines_history_limit: 3
+
+      - name: Pull Requests
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          filename: pull_requests.svg
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: no
+      
