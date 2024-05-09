@@ -62,5 +62,5 @@ jobs:
           filename: pull_requests.svg
           plugin_followup: yes
           plugin_followup_sections: user
-          plugin_followup_indepth: no
+          plugin_followup_indepth: yes
       
