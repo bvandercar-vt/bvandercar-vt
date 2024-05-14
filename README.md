@@ -32,12 +32,12 @@
 
 ## Stats
 <picture>
-  <img align="center" src="/github-metrics.svg" alt="Metrics">
+  <img align="center" src="/github-metrics.metrics.svg" alt="Metrics">
 </picture>
 <picture>
-  <img align="center" src="/languages.svg" alt="Languages">
+  <img align="center" src="/github-metrics.languages.svg" alt="Languages">
 </picture>
 <picture>
-  <img align="center" src="/pull_requests.svg" alt="Languages">
+  <img align="center" src="/github-metrics.pull-requests.svg" alt="Pull Requests">
 </picture>
 
