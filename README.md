@@ -31,6 +31,8 @@
 </div>
 
 ## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bvandercar-vt&show_icons=true&theme=radical)
+
 <picture>
   <img align="center" src="/github-metrics.metrics.svg" alt="Metrics">
 </picture>
