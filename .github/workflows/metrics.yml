@@ -35,7 +35,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          filename: languages.svg  
           plugin_languages: yes
           plugin_languages_skipped: SD, arduino-totem
           plugin_languages_categories: markup, programming
@@ -44,10 +43,10 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_other: yes
           plugin_languages_sections: recently-used, most-used
-          plugin_languages_indepth: yes
-          commits_authoring: blake vandercar, bvandercar, bvandercar-vt, bvandercar@outlook.com, blake.vandercar@validatek.com
-          plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_analysis_timeout: 60
+          # plugin_languages_indepth: yes
+          # commits_authoring: blake vandercar, bvandercar, bvandercar-vt, bvandercar@outlook.com, blake.vandercar@validatek.com
+          # plugin_languages_analysis_timeout_repositories: 15
+          # plugin_languages_analysis_timeout: 60
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 365
 
@@ -56,7 +55,6 @@ jobs:
       #   with:
       #     token: ${{ secrets.METRICS_TOKEN }}
       #     base: ""
-      #     filename: lines.svg  
       #     plugin_lines: yes
       #     plugin_lines_delay: 30
       #     plugin_lines_sections: repositories, history
@@ -67,7 +65,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          filename: pull_requests.svg
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_followup_indepth: yes
