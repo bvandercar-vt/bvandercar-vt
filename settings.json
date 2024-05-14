@@ -1,6 +1,0 @@
-{
-  "extras": {
-    "default": false,
-    "features": ["metrics.api.github.overuse","metrics.run.tempdir","metrics.run.git"]                 
-  },
-}
