@@ -23,7 +23,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="226.58182736196568" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="226.58182736196568" y="0" width="135.5156051618562" height="8" fill="mediumvioletred"/>
+                    <rect mask="url(#languages-bar)" x="226.58182736196568" y="0" width="135.5156051618562" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="362.0974325238219" y="0" width="32.45505120026241" height="8" fill="goldenrod"/>
                     <rect mask="url(#languages-bar)" x="394.5524837240843" y="0" width="31.14118447020581" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="425.6936681942901" y="0" width="12.174882479872778" height="8" fill="#555555"/>
@@ -82,7 +82,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="mediumvioletred" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C++
                             </div>
@@ -134,7 +134,7 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="242.57752802589488" height="8" fill="goldenrod"/>
-                    <rect mask="url(#languages-bar)" x="242.57752802589488" y="0" width="84.70018699750354" height="8" fill="mediumvioletred"/>
+                    <rect mask="url(#languages-bar)" x="242.57752802589488" y="0" width="84.70018699750354" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="327.27771502339846" y="0" width="81.51486962382177" height="8" fill="#3178c6"/>
                     <rect mask="url(#languages-bar)" x="408.7925846472202" y="0" width="23.16395979079061" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="431.95654443801084" y="0" width="21.77979857426269" height="8" fill="#e34c26"/>
@@ -192,7 +192,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="mediumvioletred" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 C++
                             </div>
