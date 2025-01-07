@@ -1,4 +1,6 @@
-## Skills
+<div align="center">
+  
+## 🌟 Skills 🌟
 
 #### Frontend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,17 +43,17 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 
-
-
-## Owned Projects
-[My Bike Ride Tracker](https://bvandercar-vt.github.io/bike-ride-mapper/)
-
-[DJ Website](https://specialingredientbass.com/)
-
-## Stats
+## 📈   Stats   📈
 <img src="/github-metrics.metrics.svg" alt="Metrics">
 <br>
 <img  src="/github-metrics.languages.svg" alt="Languages">
 <br>
 <img  src="/github-metrics.pull-requests.svg" alt="Pull Requests">
+
+## 💥  Owned Projects  💥
+[My Bike Ride Tracker](https://bvandercar-vt.github.io/bike-ride-mapper/)
+
+[DJ Website](https://specialingredientbass.com/)
+
+</div>
 
