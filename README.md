@@ -50,6 +50,9 @@
 <br>
 <img  src="/github-metrics.pull-requests.svg" alt="Pull Requests">
 
+<!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
+
+
 ## 💥  Owned Projects  💥
 [My Bike Ride Tracker](https://bvandercar-vt.github.io/bike-ride-mapper/)
 
