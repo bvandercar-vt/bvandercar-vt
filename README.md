@@ -53,10 +53,10 @@
 <!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
 
 
-## 💥  Owned Projects  💥
-[My Bike Ride Tracker](https://bvandercar-vt.github.io/bike-ride-mapper/)
+## 💎   Owned Projects  💎
+### __✨ [My Bike Ride Tracker *(React Website)*](https://bvandercar-vt.github.io/bike-ride-mapper/) ✨__ | [*Repo*](https://github.com/bvandercar-vt/specialingredient.github.io)
 
-[DJ Website](https://specialingredientbass.com/)
+### __✨ [DJ Website *(React Website)*](https://specialingredientbass.com/) ✨__ | [*Repo*](https://github.com/bvandercar-vt/bike-ride-mapper)
 
 </div>
 
