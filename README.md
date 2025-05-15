@@ -62,7 +62,9 @@
 
 ### 🌔 Python Packages 🌖
 
-### __[Serato_Tools](https://pypi.org/project/serato-tools/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
+### __[serato-usb-export](https://pypi.org/project/serato-usb-export/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
+
+### __[serato-tools](https://pypi.org/project/serato-tools/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
 
 
 </div>
