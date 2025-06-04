@@ -83,10 +83,10 @@ jobs:
           # plugin_languages_analysis_timeout: 60
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 365
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+          # plugin_notable: yes
+          # plugin_notable_from: all
+          # plugin_notable_indepth: yes
+          # plugin_notable_repositories: yes
 
           plugin_followup: yes
           plugin_followup_sections: user
