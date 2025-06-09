@@ -69,7 +69,7 @@ jobs:
           #   }
 
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          # plugin_languages_indepth: yes
           # plugin_languages_aliases: tsx:React
           plugin_languages_colors: python:#ffde57
           plugin_languages_skipped: SD
