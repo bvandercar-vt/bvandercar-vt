@@ -41,42 +41,70 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
 
-## 📈   Stats   📈
-<img src="./github-metrics.svg" alt="GitHub Metrics">
-
-<!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
-
 
 ## 💎   Owned Projects  💎
 
-### ⚛️ React Websites ⚛️
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Repo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="3"><strong>⚛️ React Websites</strong></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">My Bike Ride Tracker</a></strong></td>
+      <td><em>A map overlaying every bike ride I've done over the past few years.</em></td>
+      <td><a href="https://github.com/bvandercar-vt/bike-ride-mapper">🔗</a></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://specialingredientbass.com/">DJ Website</a></strong></td>
+      <td><em>My side hobby. All custom React components and CSS, using the SoundCloud API.</em></td>
+      <td><a href="https://github.com/bvandercar-vt/specialingredientbass.com">🔗</a></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://womanhoodofwubz.neocities.org/">Retail Website</a></strong></td>
+      <td><em>Retail website for a friend using a CMS and custom React components.</em></td>
+      <td><a href="https://github.com/bvandercar-vt/womanhoodofwubz.com">🔗</a></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>📦 NPM Packages</strong></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://www.npmjs.com/package/glob-sort">glob-sort</a></strong></td>
+      <td><em>For configuring sorting of glob folder results. Namely for Cypress tests, but has universal usage.</em></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>🌔 Python Packages</strong></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://pypi.org/project/serato-tools/">serato-tools</a></strong></td>
+      <td><em>Various Python tools for the Serato DJ software</em></td>
+      <td><a href="https://github.com/bvandercar-vt/serato-tools">🔗</a></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://pypi.org/project/serato-usb-export/">serato-usb-export</a></strong></td>
+      <td><em>USB Export tool for the Serato DJ software</em></td>
+      <td><a href="https://github.com/bvandercar-vt/serato-tools">🔗</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### __✨ [My Bike Ride Tracker](https://bvandercar-vt.github.io/bike-ride-mapper/)__ | [*Repo*](https://github.com/bvandercar-vt/bike-ride-mapper)
-_A map overlaying every bike ride I've done over the past few years._
+## 📈   Stats   📈
 
-### __✨ [DJ Website](https://specialingredientbass.com/)__ | [*Repo*](https://github.com/bvandercar-vt/specialingredientbass.com)
-_My side hobby. All custom React components and CSS, using the SoundCloud API._
+![Repo Contributions](https://github-contributor-stats.vercel.app/api?username=bvandercar-vt&limit=10&theme=dark&combine_all_yearly_contributions=true&hide_contributor_rank=false)
 
-### __✨ [Retail Website](https://womanhoodofwubz.neocities.org/)__ | [*Repo*](https://github.com/bvandercar-vt/womanhoodofwubz.com)
-_Retail website for a friend using a CMS and custom React components._
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvandercar-vt&theme=dark)](https://git.io/streak-stats)
+
+<!--  ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvandercar-vt&theme=github_dark) -->
 
 
-<br/>
+<img src="./github-metrics.svg" alt="GitHub Metrics">
 
-### 📦 NPM Packages 📦
 
-### __[glob-sort](https://www.npmjs.com/package/glob-sort)__
-_For configuring sorting of glob folder results. Namely for Cypress tests, but has universal usage._
-
-<br/>
-
-### 🌔 Python Packages 🌖
-
-### __[serato-tools](https://pypi.org/project/serato-tools/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
-_Various Python tools for the Serato DJ software_
-
-### __[serato-usb-export](https://pypi.org/project/serato-usb-export/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
-_USB Export tool for the Serato DJ software_
-
-</div>
-
+<!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
