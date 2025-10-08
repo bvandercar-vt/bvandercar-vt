@@ -6,8 +6,8 @@
 
 #### Frontend
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br>
@@ -52,19 +52,31 @@
 ### ⚛️ React Websites ⚛️
 
 ### __✨ [My Bike Ride Tracker](https://bvandercar-vt.github.io/bike-ride-mapper/)__ | [*Repo*](https://github.com/bvandercar-vt/bike-ride-mapper)
-
-### __✨ [Retail Website](https://womanhoodofwubz.neocities.org/)__ | [*Repo*](https://github.com/bvandercar-vt/womanhoodofwubz.com)
+_A map overlaying every bike ride I've done over the past few years._
 
 ### __✨ [DJ Website](https://specialingredientbass.com/)__ | [*Repo*](https://github.com/bvandercar-vt/specialingredientbass.com)
+_My side hobby. All custom React components and CSS, using the SoundCloud API._
+
+### __✨ [Retail Website](https://womanhoodofwubz.neocities.org/)__ | [*Repo*](https://github.com/bvandercar-vt/womanhoodofwubz.com)
+_Retail website for a friend using a CMS and custom React components._
+
+
+<br/>
+
+### 📦 NPM Packages 📦
+
+### __[glob-sort](https://www.npmjs.com/package/glob-sort)__
+_For configuring sorting of glob folder results. Namely for Cypress tests, but has universal usage._
 
 <br/>
 
 ### 🌔 Python Packages 🌖
 
-### __[serato-usb-export](https://pypi.org/project/serato-usb-export/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
-
 ### __[serato-tools](https://pypi.org/project/serato-tools/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
+_Various Python tools for the Serato DJ software_
 
+### __[serato-usb-export](https://pypi.org/project/serato-usb-export/)__ | [*Repo*](https://github.com/bvandercar-vt/serato-tools)
+_USB Export tool for the Serato DJ software_
 
 </div>
 
