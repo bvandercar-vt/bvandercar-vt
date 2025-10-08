@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td rowspan="4" valign="top"><strong>Frontend 🖥️</strong></td>
+    <td rowspan="4" valign="top"><strong>🖥️ Frontend 🖥️</strong></td>
     <td align="right"><em>Languages</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -38,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="3" valign="top"><strong>Testing 🧪</strong></td>
+    <td rowspan="3" valign="top"><strong>🧪 Testing 🧪</strong></td>
     <td align="right"><em>E2E</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress">
@@ -61,7 +61,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Misc. 📝</strong></td>
+    <td valign="top"><strong>📝 Other Languages 📝</strong></td>
     <td align="right"><em>Languages</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -70,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" valign="top"><strong>Tools 🛠️</strong></td>
+    <td rowspan="2" valign="top"><strong>🛠️ Tools 🛠️</strong></td>
     <td align="right"><em>Project Management</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
@@ -100,7 +100,7 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="3"><strong>⚛️ React Websites</strong></td>
+      <td colspan="3"><strong>⚛️ React Websites ⚛️</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">My Bike Ride Tracker</a></strong></td>
@@ -118,7 +118,7 @@
       <td><a href="https://github.com/bvandercar-vt/womanhoodofwubz.com">🔗</a></td>
     </tr>
     <tr>
-      <td colspan="3"><strong>📦 NPM Packages</strong></td>
+      <td colspan="3"><strong>📦 NPM Packages 📦</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://www.npmjs.com/package/glob-sort">glob-sort</a></strong></td>
@@ -126,7 +126,7 @@
       <td></td>
     </tr>
     <tr>
-      <td colspan="3"><strong>🌔 Python Packages</strong></td>
+      <td colspan="3"><strong>🌔 Python Packages 🌖</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://pypi.org/project/serato-tools/">serato-tools</a></strong></td>
@@ -154,3 +154,15 @@
 
 
 <!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
+
+## 🎉   Beyond Code   🎉
+
+When I'm not coding, you'll find me:
+
+🎧 DJing 🎧  
+🚴 Bike Riding to explore Denver 🚴  
+⛷️ Hitting the slopes with friends ⛷️  
+✈️ Exploring my neighborhood, Colorado, and the world! ✈️  
+🎬 Checking out good movies 🎬  
+🎵 Catching live music 🎵
+
