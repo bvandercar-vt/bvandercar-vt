@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td rowspan="2" valign="top"><div style="white-space: nowrap;"><strong>🛠️ Tools 🛠️</strong></div></td>
-    <td align="right"><em>Project Management</em></td>
+    <td align="right"><em>PM</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
       <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
