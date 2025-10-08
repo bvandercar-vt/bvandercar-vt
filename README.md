@@ -3,10 +3,10 @@
 <!-- Badges link: https://github.com/Ileriayo/markdown-badges -->
   
 
-## 🌟 Skills 🌟
+## 🌟&nbsp;  Skills  &nbsp;🌟
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>🖥️ Frontend 🖥️</strong></td>
+    <td colspan="2" align="center"><strong>🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️</strong></td>
   </tr>
   <tr>
     <td align="right"><em>Languages</em></td>
@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>🧪 Testing 🧪</strong></td>
+    <td colspan="2" align="center"><strong>🧪&nbsp;&nbsp;&nbsp;  Testing  &nbsp;&nbsp;&nbsp;🧪</strong></td>
   </tr>
   <tr>
     <td align="right"><em>E2E</em></td>
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>📝 Other Languages 📝</strong></td>
+    <td colspan="2" align="center"><strong>📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝</strong></td>
   </tr>
   <tr>
     <td align="right"><em>Scripting</em></td>
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>🛠️ Tools 🛠️</strong></td>
+    <td colspan="2" align="center"><strong>🛠️&nbsp;&nbsp;&nbsp;  Tools &nbsp;&nbsp;&nbsp;🛠️</strong></td>
   </tr>
   <tr>
     <td align="right"><em>Project<br/>Management</em></td>
@@ -98,7 +98,7 @@
   </tr>
 </table>
 
-## 💎   Owned Projects  💎
+## 💎&nbsp;  Owned Projects  &nbsp;💎
 
 <table>
   <thead>
@@ -151,7 +151,7 @@
   </tbody>
 </table>
 
-## 📈   Stats   📈
+## 📈&nbsp;  Stats  &nbsp;📈
 
 ![Repo Contributions](https://github-contributor-stats.vercel.app/api?username=bvandercar-vt&limit=10&theme=dark&combine_all_yearly_contributions=true&hide_contributor_rank=false)
 
@@ -165,7 +165,7 @@
 
 <!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
 
-## 🎉   Beyond Code   🎉
+## 🎉&nbsp;  Beyond Code  &nbsp;🎉
 
 When I'm not coding, you'll find me:
 
