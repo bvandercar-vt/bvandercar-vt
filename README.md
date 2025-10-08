@@ -4,10 +4,11 @@
   
 
 ## 🌟 Skills 🌟
-
 <table>
   <tr>
-    <td rowspan="4" valign="top"><div style="white-space: nowrap;"><strong>🖥️ Frontend 🖥️</strong></div></td>
+    <td colspan="2" align="center"><strong>🖥️ Frontend 🖥️</strong></td>
+  </tr>
+  <tr>
     <td align="right"><em>Languages</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -18,7 +19,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right"><em>Build / Dev Tools</em></td>
+    <td align="right"><em>Dev Tools</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
       <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
@@ -38,7 +39,9 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="3" valign="top"><div style="white-space: nowrap;"><strong>🧪 Testing 🧪</strong></div></td>
+    <td colspan="2" align="center"><strong>🧪 Testing 🧪</strong></td>
+  </tr>
+  <tr>
     <td align="right"><em>E2E</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress">
@@ -61,7 +64,9 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" valign="top"><div style="white-space: nowrap;"><strong>📝 Other Languages 📝</strong></div></td>
+    <td colspan="2" align="center"><strong>📝 Other Languages 📝</strong></td>
+  </tr>
+  <tr>
     <td align="right"><em>Scripting</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -74,8 +79,10 @@
     </td>
   </tr>
   <tr>
-    <td rowspan="2" valign="top"><div style="white-space: nowrap;"><strong>🛠️ Tools 🛠️</strong></div></td>
-    <td align="right"><em>PM</em></td>
+    <td colspan="2" align="center"><strong>🛠️ Tools 🛠️</strong></td>
+  </tr>
+  <tr>
+    <td align="right"><em>Project<br/>Management</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
       <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
