@@ -6,7 +6,7 @@
 ## 🌟&nbsp;  Skills  &nbsp;🌟
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️</strong></td>
+    <td colspan="2" align="center"><strong>🖥️🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️🖥️</strong></td>
   </tr>
   <tr>
     <td align="right"><em>Languages</em></td>
@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>🧪&nbsp;&nbsp;&nbsp;  Testing  &nbsp;&nbsp;&nbsp;🧪</strong></td>
+    <td colspan="2" align="center"><strong>🧪🧪&nbsp;&nbsp;&nbsp;  Testing  &nbsp;&nbsp;&nbsp;🧪🧪</strong></td>
   </tr>
   <tr>
     <td align="right"><em>E2E</em></td>
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝</strong></td>
+    <td colspan="2" align="center"><strong>📝📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝📝</strong></td>
   </tr>
   <tr>
     <td align="right"><em>Scripting</em></td>
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>🛠️&nbsp;&nbsp;&nbsp;  Tools &nbsp;&nbsp;&nbsp;🛠️</strong></td>
+    <td colspan="2" align="center"><strong>🛠️🛠️&nbsp;&nbsp;&nbsp;  Tools &nbsp;&nbsp;&nbsp;🛠️🛠️</strong></td>
   </tr>
   <tr>
     <td align="right"><em>Project<br/>Management</em></td>
@@ -110,7 +110,7 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan="3"><strong>⚛️ React Websites ⚛️</strong></td>
+      <td colspan="3"><strong>⚛️&nbsp; React Websites &nbsp;⚛️</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">My Bike Ride Tracker</a></strong></td>
@@ -128,7 +128,7 @@
       <td><a href="https://github.com/bvandercar-vt/womanhoodofwubz.com">🔗</a></td>
     </tr>
     <tr>
-      <td colspan="3"><strong>📦 NPM Packages 📦</strong></td>
+      <td colspan="3"><strong>📦&nbsp; NPM Packages &nbsp;📦</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://www.npmjs.com/package/glob-sort">glob-sort</a></strong></td>
@@ -136,7 +136,7 @@
       <td></td>
     </tr>
     <tr>
-      <td colspan="3"><strong>🌔 Python Packages 🌖</strong></td>
+      <td colspan="3"><strong>🌔&nbsp; Python Packages &nbsp;🌖</strong></td>
     </tr>
     <tr>
       <td><strong><a href="https://pypi.org/project/serato-tools/">serato-tools</a></strong></td>
