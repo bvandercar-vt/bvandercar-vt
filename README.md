@@ -82,7 +82,7 @@
     <td colspan="2" align="center"><h3>🛠️🛠️&nbsp;&nbsp;&nbsp;  Tools &nbsp;&nbsp;&nbsp;🛠️🛠️</h3></td>
   </tr>
   <tr>
-    <td align="right"><em>Project<br/>Management</em></td>
+    <td align="right"><em>Project<br/>Mgmt.</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
       <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
