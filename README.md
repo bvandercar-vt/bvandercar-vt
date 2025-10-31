@@ -6,7 +6,7 @@
 ## 🌟&nbsp;  Skills  &nbsp;🌟
 <table>
   <tr>
-    <td colspan="2" align="center"><strong>🖥️🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️🖥️</strong></td>
+    <td colspan="2" align="center"><h3>🖥️🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️🖥️</h3></td>
   </tr>
   <tr>
     <td align="right"><em>Languages</em></td>
@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>🧪🧪&nbsp;&nbsp;&nbsp;  Testing  &nbsp;&nbsp;&nbsp;🧪🧪</strong></td>
+    <td colspan="2" align="center"><h3>🧪🧪&nbsp;&nbsp;&nbsp;  Testing  &nbsp;&nbsp;&nbsp;🧪🧪</h3></td>
   </tr>
   <tr>
     <td align="right"><em>E2E</em></td>
@@ -64,7 +64,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>📝📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝📝</strong></td>
+    <td colspan="2" align="center"><h3>📝📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝📝</h3></td>
   </tr>
   <tr>
     <td align="right"><em>Scripting</em></td>
@@ -79,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><strong>🛠️🛠️&nbsp;&nbsp;&nbsp;  Tools &nbsp;&nbsp;&nbsp;🛠️🛠️</strong></td>
+    <td colspan="2" align="center"><h3>🛠️🛠️&nbsp;&nbsp;&nbsp;  Tools &nbsp;&nbsp;&nbsp;🛠️🛠️</h3></td>
   </tr>
   <tr>
     <td align="right"><em>Project<br/>Management</em></td>
