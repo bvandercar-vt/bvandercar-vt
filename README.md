@@ -131,6 +131,11 @@
       <td colspan="3"><strong>📦&nbsp; NPM Packages &nbsp;📦</strong></td>
     </tr>
     <tr>
+      <td><strong><a href="https://www.npmjs.com/package/react-component-test-suite">react-component-test-suite</a></strong></td>
+      <td><em>For creating custom React component test suites for Vitest or Jest that name the suite the name of the React component.</em></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><strong><a href="https://www.npmjs.com/package/glob-sort">glob-sort</a></strong></td>
       <td><em>For configuring sorting of glob folder results. Namely for Cypress tests, but has universal usage.</em></td>
       <td></td>
