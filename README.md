@@ -164,9 +164,7 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvandercar-vt&theme=merko&background=00000000&exclude_days=true&hide_border=false&hide_current_streak=true&hide_longest_streak=true)
 
-<!-- https://github.com/HwangTaehyun/github-repository-contribution-stats -->
-![Repo Contributions](https://github-contributor-stats.vercel.app/api?username=bvandercar-vt&theme=merko&bg_color=00000000&hide_border=false&combine_all_yearly_contributions=true&hide_contributor_rank=false&order_by=contributions&hide=B)
-
+<img src="./github-contributor-stats.svg" alt="Repo Contributions">
 
 <!--  ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvandercar-vt&theme=github_dark) -->
 

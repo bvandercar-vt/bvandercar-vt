@@ -1,10 +1,12 @@
 name: GitHub Contributor Stats
-# https://github.com/HwangTaehyun/github-repository-contribution-stats/blob/main/action/README.md
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Daily at midnight
-  workflow_dispatch:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch: # Run manually
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/github-contribution-stats.yml
 
 jobs:
   update-stats:
@@ -16,19 +18,39 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate GitHub Contributor Stats SVG
-        uses: HwangTaehyun/github-contributor-stats/action@main
+        uses: bvandercar-vt/github-repository-contribution-stats/action@main
         env:
-          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GITHUB_PERSONAL_ACCESS_TOKEN }}
+          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN }}
         with:
           username: bvandercar-vt
           output-file: github-contributor-stats.svg
+          custom-title: GitHub Contributor Stats
           theme: merko
           combine-all-yearly-contributions: true
-          hide-contributor-rank: false
-          rate-limit-delay-ms: 100
-          bg-color: 00000000
+          columns: >
+            [
+              {
+                "name": "commits",
+                "minimum": 2
+              },
+              {
+                "name": "pull_requests"
+              },
+              {
+                "name": "contribution_rank"
+              }
+            ]
+          exclude: "*slskd*,bvandercar-vt/*"
+          bg-color: '00000000'
           order-by: contributions
-          # hide: B
 
-      - uses: actions4git/add-commit-push@v1
-        continue-on-error: true
+      - name: Check for changes
+        id: git-changes
+        run: |
+          echo "changed=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+
+      - name: Commit Generated SVG
+        if: steps.git-changes.outputs.changed != '0'
+        uses: actions4git/add-commit-push@v1
+        with:
+          commit-message: "automated: update GitHub contributor stats SVG"
