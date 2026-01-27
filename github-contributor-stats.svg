@@ -1,8 +1,8 @@
 
       <svg
-        width="388"
+        width="413"
         height="273"
-        viewBox="0 0 388 273"
+        viewBox="0 0 413 273"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -87,7 +87,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="387"
+          width="412"
           fill="#00000000"
           stroke-opacity="1"
         />
@@ -102,7 +102,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Blake V.'s GitHub Contributor Stats</text>
+      >GitHub Contributor Stats</text>
     </g>
       </g>
     
