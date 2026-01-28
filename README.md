@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Badges link: https://github.com/Ileriayo/markdown-badges -->
-  
 
-## 🌟&nbsp;  Skills  &nbsp;🌟
+## 🌟&nbsp; Skills &nbsp;🌟
+
 <table>
   <tr>
     <td colspan="2" align="center"><h3>🖥️🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️🖥️</h3></td>
@@ -98,7 +98,7 @@
   </tr>
 </table>
 
-## 💎&nbsp;  Owned Projects  &nbsp;💎
+## 💎&nbsp; Owned Projects &nbsp;💎
 
 <table>
   <thead>
@@ -156,7 +156,7 @@
   </tbody>
 </table>
 
-## 📈&nbsp;  Stats  &nbsp;📈
+## 📈&nbsp; Stats &nbsp;📈
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img src="./github-overall-stats.svg" alt="Overall Stats">
@@ -169,14 +169,12 @@
 
 <!--  ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvandercar-vt&theme=github_dark) -->
 
-
 <!-- https://github.com/lowlighter/metrics -->
 <img src="./github-metrics.svg" alt="GitHub Metrics">
 
-
 <!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
 
-## 🎉&nbsp;  Beyond Code  &nbsp;🎉
+## 🎉&nbsp; Beyond Code &nbsp;🎉
 
 When I'm not coding, you'll find me:
 
@@ -186,4 +184,3 @@ When I'm not coding, you'll find me:
 ✈️ Exploring my neighborhood, Colorado, and the world! ✈️  
 🎬 Checking out good movies 🎬  
 🎵 Catching live music 🎵
-

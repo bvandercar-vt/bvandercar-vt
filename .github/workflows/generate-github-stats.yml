@@ -1,0 +1,152 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    inputs:
+      overall_stats:
+        description: 'Run Overall Stats generator'
+        required: false
+        default: 'true'
+        type: boolean
+      contribution_stats:
+        description: 'Run Contribution Stats generator'
+        required: false
+        default: 'true'
+        type: boolean
+      metrics:
+        description: 'Run Metrics generator'
+        required: false
+        default: 'true'
+        type: boolean
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/generate-github-stats.yml
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Overall Stats SVG
+        if: ${{ (github.event_name != 'workflow_dispatch') || (inputs.overall_stats == 'true') }}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&custom_title=Overall%20GitHub%20Stats&include_all_commits=true&show_icons=true&theme=merko&bg_color=00000000&hide_rank=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars
+          path: github-overall-stats.svg
+          token: ${{ secrets.CONTRIBUTIONS_TOKEN }}
+
+      - name: Generate GitHub Contribution Stats SVG
+        if: ${{ (github.event_name != 'workflow_dispatch') || (inputs.contribution_stats == 'true') }}
+        uses: bvandercar-vt/github-repository-contribution-stats/action@main
+        env:
+          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN }}
+        with:
+          username: bvandercar-vt
+          output-file: github-contribution-stats.svg
+          custom-title: GitHub Contribution Stats
+          theme: merko
+          combine-all-yearly-contributions: true
+          columns: >
+            [
+              {
+                "name": "commits",
+                "minimum": 3
+              },
+              {
+                "name": "pull_requests"
+              },
+              {
+                "name": "contribution_rank"
+              }
+            ]
+          exclude: '*slskd*,bvandercar-vt/*'
+          bg-color: '00000000'
+          hide-border: true
+          order-by: contributions
+
+      - name: Check for changes
+        id: git-changes
+        run: |
+          echo "changed=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+
+      - name: Commit Generated SVGs
+        if: steps.git-changes.outputs.changed != '0'
+        uses: actions4git/add-commit-push@v1
+        with:
+          commit-message: 'automated: update GitHub stats SVGs'
+
+  generate-metrics:
+    # this does its own commit, so it's in its own job
+    runs-on: ubuntu-latest
+    # environment:
+    #   name: production
+    permissions:
+      contents: write
+    if: ${{ (github.event_name != 'workflow_dispatch') || (inputs.metrics == 'true') }}
+    steps:
+      - uses: actions/checkout@v4
+
+      # - name: Cache Metrics
+      #   uses: actions/cache@v3
+      #   with:
+      #     path: ~/
+      #     key: metrics-cache
+      #     restore-keys: |
+      #       metrics-cache
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          config_timezone: America/Denver
+          base: header, activity
+          base_indepth: yes
+          config_order: base.header, base.activity+community, followup
+          extras_css: |
+            svg {
+              color: silver !important;
+            }
+            h1, h2, h3 {
+              color: LightSeaGreen !important;
+              font-weight: bold;
+            }
+            .language.details small{
+              color: #929fad !important;
+            }
+            .legend .field:nth-last-child(2),
+            .legend .field:nth-last-child(1) {
+                display:none;
+            }
+            h2.field {
+              overflow: hidden;
+              height: 0;
+              width: 0;
+            }
+            section > small {
+              display:none;
+            }
+          # extras_js: |
+          #   const svg = document.querySelectorAll("svg")[0]
+          #   if (svg) {
+          #     const height = svg.getAttribute("height")
+          #     if (height) {
+          #       svg.setAttribute("height", String(parseInt(height) - 60));
+          #     }
+
+          # plugin_notable: yes
+          # plugin_notable_from: all
+          # plugin_notable_indepth: yes
+          # plugin_notable_repositories: yes
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
+          # debug: yes
+          # debug_print: yes
