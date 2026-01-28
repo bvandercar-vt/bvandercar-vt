@@ -1,7 +1,8 @@
 name: GitHub Contributor Stats
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: 
+   - cron: "0 4 * * *"
   workflow_dispatch: # Run manually
   push:
     branches: [main]
@@ -23,8 +24,8 @@ jobs:
           GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN }}
         with:
           username: bvandercar-vt
-          output-file: github-contributor-stats.svg
-          custom-title: Contribution Stats
+          output-file: github-contribution-stats.svg
+          custom-title: GitHub Contribution Stats
           theme: merko
           combine-all-yearly-contributions: true
           columns: >
@@ -42,6 +43,7 @@ jobs:
             ]
           exclude: "*slskd*,bvandercar-vt/*"
           bg-color: '00000000'
+          hide-border: true
           order-by: contributions
 
       - name: Check for changes

@@ -159,16 +159,18 @@
 ## 📈&nbsp;  Stats  &nbsp;📈
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bvandercar-vt&theme=merko&bg_color=00000000&show_icons=true&hide_rank=true&hide_border=false&include_all_commits=true&rank_icon=percentile&show=reviews&hide=stars,issues,contribs)
+<img src="./github-overall-stats.svg" alt="Overall Stats">
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvandercar-vt&theme=merko&background=00000000&exclude_days=true&hide_border=false&hide_current_streak=true&hide_longest_streak=true) -->
 
-<img src="./github-contributor-stats.svg" alt="Repo Contributions">
+<!-- https://github.com/bvandercar-vt/github-repository-contribution-stats -->
+<img src="./github-contribution-stats.svg" alt="Repo Contributions">
 
 <!--  ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvandercar-vt&theme=github_dark) -->
 
 
+<!-- https://github.com/lowlighter/metrics -->
 <img src="./github-metrics.svg" alt="GitHub Metrics">
 
 

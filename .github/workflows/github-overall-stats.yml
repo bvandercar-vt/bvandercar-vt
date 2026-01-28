@@ -1,0 +1,39 @@
+name: GitHub Overall Stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch: # Run manually
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/github-overall-stats.yml
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Overall Stats SVG
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&custom_title=Overall%20GitHub%20Stats&include_all_commits=true&show_icons=true&theme=merko&bg_color=00000000&hide_rank=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars
+          path: github-overall-stats.svg
+          token: ${{ secrets.CONTRIBUTIONS_TOKEN }}
+
+      - name: Check for changes
+        id: git-changes
+        run: |
+          echo "changed=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+
+      - name: Commit Generated SVG
+        if: steps.git-changes.outputs.changed != '0'
+        uses: actions4git/add-commit-push@v1
+        with:
+          commit-message: "automated: update GitHub overall stats SVG"
