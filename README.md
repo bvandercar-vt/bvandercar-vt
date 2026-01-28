@@ -118,6 +118,8 @@
         <strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">Bike Ride Tracker</a></strong>
         <br/>
         <em>A map overlaying every bike ride I've done over the past few years.</em>&nbsp;<a href="https://github.com/bvandercar-vt/bike-ride-mapper">[repo]</a>
+        <!-- <br/>
+        <img src="./project-images/bike-ride-mapper.png" height=150 alt="Bike Ride Mapper Screenshot"><br/> -->
       </td>
     </tr>
     <tr>
@@ -125,6 +127,8 @@
         <strong><a href="https://specialingredientbass.com/">DJ Website</a></strong>
         <br/>
         <em>My side hobby. All custom React components and CSS, using the SoundCloud API.</em>&nbsp;<a href="https://github.com/bvandercar-vt/specialingredientbass.com">[repo]</a>
+        <!-- <br/>
+        <img src="./project-images/dj-website.png" height=150 alt="DJ Website Screenshot"><br/> -->
       </td>
     </tr>
     <tr>
@@ -132,6 +136,8 @@
         <strong><a href="https://womanhoodofwubz.neocities.org/">Retail Website</a></strong>
         <br/>
         <em>Retail website for a friend using a CMS and custom React components.</em>&nbsp;<a href="https://github.com/bvandercar-vt/womanhoodofwubz.com">[repo]</a>
+        <!-- <br/>
+        <img src="./project-images/womanhood-of-wubz.png" height=100 alt="Retail Website Screenshot"><br/> -->
       </td>
     </tr>
     <tr>
