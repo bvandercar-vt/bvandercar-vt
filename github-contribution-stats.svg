@@ -1,8 +1,8 @@
 
       <svg
         width="413"
-        height="273"
-        viewBox="0 0 413 273"
+        height="240"
+        viewBox="0 0 413 240"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -89,7 +89,7 @@
           stroke="#e4e2e2"
           width="412"
           fill="#00000000"
-          stroke-opacity="1"
+          stroke-opacity="0"
         />
         
       <g
@@ -102,7 +102,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >GitHub Contributor Stats</text>
+      >GitHub Contribution Stats</text>
     </g>
       </g>
     
@@ -202,6 +202,7 @@
     <svg overflow="visible">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
+    <a xlink:href="https://github.com/archfz/cypress-terminal-report" target="_blank">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -245,9 +246,11 @@
     
     </g>
         
+    </a>
     </g>
   </g><g transform="translate(0, 33)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
+    <a xlink:href="https://github.com/palantir/blueprint" target="_blank">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -291,9 +294,11 @@
     
     </g>
         
+    </a>
     </g>
   </g><g transform="translate(0, 66)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
+    <a xlink:href="https://github.com/Xetera/ghost-cursor" target="_blank">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -337,9 +342,11 @@
     
     </g>
         
+    </a>
     </g>
   </g><g transform="translate(0, 99)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
+    <a xlink:href="https://github.com/AnyRoad/react-json-view-lite" target="_blank">
       <defs>
         <clipPath id="myCircle">
           <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
@@ -383,52 +390,7 @@
     
     </g>
         
-    </g>
-  </g><g transform="translate(0, 132)">
-    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
-      <defs>
-        <clipPath id="myCircle">
-          <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
-        </clipPath>
-      </defs>
-      <image xlink:href="data:image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEz0lEQVR4nOyYe0yVZRzHP0fBS17xhpr3vCy12YDSNNQBs+HYZJZmWs3NWoTUlGaWTnFuOieymGgWBrmpo5um06G1CG8jKyhCURvC0ATvCoICXjjt6Xfe3nO49b7vOenRne8/7+99nvM+5/d9n9/l+7x+hNorgbY85PBzkHjoibR60A54Cj4i3gYfEW+Dj4i3wUfE2+Dn6QU7toeJYyBoOAwIhA7tAJvJReyw4nMoOmf8EY8RCRkB8S9DdCi094Dg+Sr7PhPp3hmS34VXpzSeu3sPqmvkDRtyxk921ArcIqLCZ9dq6N9LH8vKg4wsOJQPxeVQX298vcixkJlozRfLRJ4bBfvXQecOcn/0BLyTDLmnrK7oHiwRGdQb9qzRSSR9AYs/gXsm3r6nYZpIKxtsXw7du8j9yi2QkO76m14BMGMyjB0JPbtCVQ0cK4adB6Gw1FOuu8I0kbmRMH602MoxZxL+fpAwV6pXw8qliK2cBzsOwvyP4OI1t313gamGqHZj6etiV1bD20n6nHJ8X6LMayTqbsOZC3Djpv67FydBbioM7+cZAv/6ZubH4SEwpK/YKTvhUoU+t3kRhAeLXXoeZq2ALpEwaCZ0nQoTYuHA7zLfrxfsXWu91LpNZNoE3U7bq9thQTDH0UcKiiH4TfjyR6i7I2N2O+Qch/AFsCVTxob1gw/meICBA6aIaLlxshRKL+jjcdPlqhqg2olrN5p+vt4OMUlwukzuY6aBf2uLnjeAKSLD+ss1/7Q+ZrNBRIjYP+TCyTMtr6F26dPdYqvKFzTCpMfNwDCRtv56TDtXHFVeOz0m9q8Gm+FPhbo9pI9RD1qGYSI2JwXbnHSyG9RUOccg+evG67oDw32k9jbcrBVZHhigj1+ugKpbsitKexmB4rswBUrKXcPUHZjKkaK/5DpmqJNTdskNhReelWrUEmyOxqmQsgNOeKjTmyKixfaowTDASfGu/0auysGMBOjSoennFYkN8fBbmqti9gRMEdl9RLfnRen2gXzY+p3YwSPgl1SIGg+tnVZ/eqg0wdhoGD0YcjbBU0PcJ6DBRqi91uhHbOVYUQYM7gPXq2D4bLhSKXNKlihFrHV3BSVNzl2Gbp2hd7fG61VUw/SlkO3o+M7nkeglri/uv2BqR5RMX71V7IBOsHGhPldTB5GLYM02vaMrmT9ykCuJ/T/D5j1id+0I+9bBrHAzXjQN0+o3PRPeiBKJPjNMJMkqB7k7d+HDVNFhr4TL4atnAFTfgoISUb7awUtVrFVvSX/avgwe7+Fe4psKLQ1P9JU8UCGjoHZp2WciQcxAnfPTFkMbf7k/WgjjRon9v4aWBnUWV3/0z4cFYMlrkL3efPJu+x6mvg+VDpmvkbACyx/oDhdAxAI4f1XuJ46B/HRJ+NkREirOUPky5RnY9B4c2QhPDpTxrDyYFAdlV6yTwGpoOUMda1XSvzS58ZzaMVW52rXRw1CDUsjjYvRvVwMCIXOt9CjuV2g549J1mLEcnp8Puw5LwmtQIrNvj8Yk8v6E+A2S8BrOXoTQODj0hzU/3N6RhujWCcKCRXcNDBQyqhyXX4XjJdIzisuaf15VscRY+PhbOHXW+P96nMiDwiPzNd5HxNvgI+Jt8BHxNviIeBseGSJ/BwAA//9FYFGjM/JKGgAAAABJRU5ErkJggg==" width="25" height="25" clip-path="url(#myCircle)"/>
-      <g transform="translate(30,16)">
-        <text class="stat bold">docsearch</text>
-      </g>
-      
-    <g data-testid="value-cell" transform="translate(229, 0)">
-        
-   <g class="cell-text">
-      <text x="7.2" y="18.5">
-      2
-      </text>
-    </g>
-    
-    </g>
-        ,
-    <g data-testid="value-cell" transform="translate(279, 0)">
-        
-   <g class="cell-text">
-      <text x="7.2" y="18.5">
-      2
-      </text>
-    </g>
-    
-    </g>
-        ,
-    <g data-testid="value-cell" transform="translate(335, 0)">
-        
-    <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
-    
-   <g class="cell-text">
-      <text x="4" y="18.5">
-      A+
-      </text>
-    </g>
-    
-    
-    </g>
-        
+    </a>
     </g>
   </g>
     </svg>

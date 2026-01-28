@@ -6,7 +6,9 @@
 
 <table>
   <tr>
-    <td colspan="2" align="center"><h3>🖥️🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️🖥️</h3></td>
+    <td colspan="2" align="center">
+      <h3>🖥️🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️🖥️</h3>
+    </td>
   </tr>
   <tr>
     <td align="right"><em>Languages</em></td>
@@ -39,7 +41,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>🧪🧪&nbsp;&nbsp;&nbsp;  Testing  &nbsp;&nbsp;&nbsp;🧪🧪</h3></td>
+    <td colspan="2" align="center">
+      <h3>🧪🧪&nbsp;&nbsp;&nbsp;  Testing  &nbsp;&nbsp;&nbsp;🧪🧪</h3>
+    </td>
   </tr>
   <tr>
     <td align="right"><em>E2E</em></td>
@@ -64,7 +68,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>📝📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝📝</h3></td>
+    <td colspan="2" align="center">
+      <h3>📝📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝📝</h3>
+    </td>
   </tr>
   <tr>
     <td align="right"><em>Scripting</em></td>
@@ -79,7 +85,9 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><h3>🛠️🛠️&nbsp;&nbsp;&nbsp;  Tools &nbsp;&nbsp;&nbsp;🛠️🛠️</h3></td>
+    <td colspan="2" align="center">
+      <h3>🛠️🛠️&nbsp;&nbsp;&nbsp;  Tools  &nbsp;&nbsp;&nbsp;🛠️🛠️</h3>
+    </td>
   </tr>
   <tr>
     <td align="right"><em>Project<br/>Mgmt.</em></td>
@@ -101,57 +109,64 @@
 ## 💎&nbsp; Owned Projects &nbsp;💎
 
 <table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Repo</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td colspan="3"><strong>⚛️&nbsp; React Websites &nbsp;⚛️</strong></td>
+      <td align="center"><strong>⚛️⚛️&nbsp;&nbsp;&nbsp; React Websites &nbsp;&nbsp;&nbsp;⚛️⚛️</strong></td>
     </tr>
     <tr>
-      <td><strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">My Bike Ride Tracker</a></strong></td>
-      <td><em>A map overlaying every bike ride I've done over the past few years.</em></td>
-      <td><a href="https://github.com/bvandercar-vt/bike-ride-mapper">🔗</a></td>
+      <td align="center">
+        <strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">My Bike Ride Tracker</a></strong>
+        <br/>
+        <em>A map overlaying every bike ride I've done over the past few years.</em>&nbsp;<a href="https://github.com/bvandercar-vt/bike-ride-mapper">[repo]</a>
+      </td>
     </tr>
     <tr>
-      <td><strong><a href="https://specialingredientbass.com/">DJ Website</a></strong></td>
-      <td><em>My side hobby. All custom React components and CSS, using the SoundCloud API.</em></td>
-      <td><a href="https://github.com/bvandercar-vt/specialingredientbass.com">🔗</a></td>
+      <td align="center">
+        <strong><a href="https://specialingredientbass.com/">DJ Website</a></strong>
+        <br/>
+        <em>My side hobby. All custom React components and CSS, using the SoundCloud API.</em>&nbsp;<a href="https://github.com/bvandercar-vt/specialingredientbass.com">[repo]</a>
+      </td>
     </tr>
     <tr>
-      <td><strong><a href="https://womanhoodofwubz.neocities.org/">Retail Website</a></strong></td>
-      <td><em>Retail website for a friend using a CMS and custom React components.</em></td>
-      <td><a href="https://github.com/bvandercar-vt/womanhoodofwubz.com">🔗</a></td>
+      <td align="center">
+        <strong><a href="https://womanhoodofwubz.neocities.org/">Retail Website</a></strong>
+        <br/>
+        <em>Retail website for a friend using a CMS and custom React components.</em>&nbsp;<a href="https://github.com/bvandercar-vt/womanhoodofwubz.com">[repo]</a>
+      </td>
     </tr>
     <tr>
-      <td colspan="3"><strong>📦&nbsp; NPM Packages &nbsp;📦</strong></td>
+      <td align="center"><strong>📦📦&nbsp;&nbsp;&nbsp; NPM Packages &nbsp;&nbsp;&nbsp;📦📦</strong></td>
     </tr>
     <tr>
-      <td><strong><a href="https://www.npmjs.com/package/react-component-test-suite">react-component-test-suite</a></strong></td>
-      <td><em>For creating custom React component test suites for Vitest or Jest that name the suite the name of the React component.</em></td>
-      <td></td>
+      <td align="center">
+        <strong><a href="https://www.npmjs.com/package/react-component-test-suite">react-component-test-suite</a></strong>
+        <br/>
+        <em>Create custom React component test suites for Vitest or Jest that automatically give the name of the React component to the title of the test suite.</em>
+      </td>
     </tr>
     <tr>
-      <td><strong><a href="https://www.npmjs.com/package/glob-sort">glob-sort</a></strong></td>
-      <td><em>For configuring sorting of glob folder results. Namely for Cypress tests, but has universal usage.</em></td>
-      <td></td>
+      <td align="center">
+        <strong><a href="https://www.npmjs.com/package/glob-sort">glob-sort</a></strong>
+        <br/>
+        <em>Provide custom rules to sort nested glob results. Useful for test configuration.</em>
+      </td>
     </tr>
     <tr>
-      <td colspan="3"><strong>🌔&nbsp; Python Packages &nbsp;🌖</strong></td>
+      <td align="center"><strong>🌔🌔&nbsp;&nbsp;&nbsp; Python Packages &nbsp;&nbsp;&nbsp;🌖🌖</strong></td>
     </tr>
     <tr>
-      <td><strong><a href="https://pypi.org/project/serato-tools/">serato-tools</a></strong></td>
-      <td><em>Various Python tools for the Serato DJ software</em></td>
-      <td><a href="https://github.com/bvandercar-vt/serato-tools">🔗</a></td>
+      <td align="center">
+        <strong><a href="https://pypi.org/project/serato-tools/">serato-tools</a></strong>
+        <br/>
+        <em>Various Python tools for the Serato DJ software</em>&nbsp;&nbsp;<a href="https://github.com/bvandercar-vt/serato-tools">[repo]</a>
+      </td>
     </tr>
     <tr>
-      <td><strong><a href="https://pypi.org/project/serato-usb-export/">serato-usb-export</a></strong></td>
-      <td><em>USB Export tool for the Serato DJ software</em></td>
-      <td><a href="https://github.com/bvandercar-vt/serato-tools">🔗</a></td>
+      <td align="center">
+        <strong><a href="https://pypi.org/project/serato-usb-export/">serato-usb-export</a></strong>
+        <br/>
+        <em>USB Export tool for the Serato DJ software</em>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -184,3 +199,5 @@ When I'm not coding, you'll find me:
 ✈️ Exploring my neighborhood, Colorado, and the world! ✈️  
 🎬 Checking out good movies 🎬  
 🎵 Catching live music 🎵
+
+</div>
