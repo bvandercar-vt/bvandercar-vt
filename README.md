@@ -174,18 +174,18 @@
 ## 📈&nbsp; Stats &nbsp;📈
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img src="./github-overall-stats.svg" alt="Overall Stats">
+<img src="./github-overall-stats.svg" alt="Overall Stats"><br/>
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bvandercar-vt&theme=merko&background=00000000&exclude_days=true&hide_border=false&hide_current_streak=true&hide_longest_streak=true) -->
 
 <!-- https://github.com/bvandercar-vt/github-repository-contribution-stats -->
-<img src="./github-contribution-stats.svg" alt="Repo Contributions">
+<img src="./github-contribution-stats.svg" alt="Repo Contributions"><br/>
 
 <!--  ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvandercar-vt&theme=github_dark) -->
 
 <!-- https://github.com/lowlighter/metrics -->
-<img src="./github-metrics.svg" alt="GitHub Metrics">
+<img src="./github-metrics.svg" alt="GitHub Metrics"><br/>
 
 <!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
 

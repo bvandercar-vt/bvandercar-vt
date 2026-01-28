@@ -33,15 +33,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # https://github.com/anuraghazra/github-readme-stats
       - name: Generate GitHub Overall Stats SVG
         if: ${{ (github.event_name != 'workflow_dispatch') || (inputs.overall_stats == 'true') }}
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&custom_title=Overall%20GitHub%20Stats&include_all_commits=true&show_icons=true&theme=merko&bg_color=00000000&hide_rank=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=stars
+          options: |
+            {
+              "username": "${{ github.repository_owner }}",
+              "custom_title": "GitHub Overall Stats",
+              "include_all_commits": true,
+              "show_icons": true,
+              "theme": "merko",
+              "bg_color": "00000000",
+              "hide_rank": true,
+              "hide_border": true,
+              "number_format": "long",
+              "show": [
+                "reviews",
+                "discussions_started",
+                "prs_merged"
+              ],
+              "hide": [
+                "stars"
+              ]
+            }
           path: github-overall-stats.svg
           token: ${{ secrets.CONTRIBUTIONS_TOKEN }}
 
+      # https://github.com/bvandercar-vt/github-repository-contribution-stats
       - name: Generate GitHub Contribution Stats SVG
         if: ${{ (github.event_name != 'workflow_dispatch') || (inputs.contribution_stats == 'true') }}
         uses: bvandercar-vt/github-repository-contribution-stats/action@main
@@ -50,7 +71,7 @@ jobs:
         with:
           username: bvandercar-vt
           output-file: github-contribution-stats.svg
-          custom-title: GitHub Contribution Stats
+          custom-title: Top Community Contributions
           theme: merko
           combine-all-yearly-contributions: true
           columns: >
@@ -140,13 +161,12 @@ jobs:
           #     if (height) {
           #       svg.setAttribute("height", String(parseInt(height) - 60));
           #     }
-
           # plugin_notable: yes
           # plugin_notable_from: all
           # plugin_notable_indepth: yes
           # plugin_notable_repositories: yes
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_followup_indepth: yes
+          # plugin_followup: yes
+          # plugin_followup_sections: user
+          # plugin_followup_indepth: yes
           # debug: yes
           # debug_print: yes
