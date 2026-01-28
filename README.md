@@ -115,7 +115,7 @@
     </tr>
     <tr>
       <td align="center">
-        <strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">My Bike Ride Tracker</a></strong>
+        <strong><a href="https://bvandercar-vt.github.io/bike-ride-mapper/">Bike Ride Tracker</a></strong>
         <br/>
         <em>A map overlaying every bike ride I've done over the past few years.</em>&nbsp;<a href="https://github.com/bvandercar-vt/bike-ride-mapper">[repo]</a>
       </td>
@@ -185,7 +185,8 @@
 <!--  ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bvandercar-vt&theme=github_dark) -->
 
 <!-- https://github.com/lowlighter/metrics -->
-<img src="./github-metrics.svg" alt="GitHub Metrics"><br/>
+<!-- TODO: see why this has higher numbers, and contribute fixes to the other repos -->
+<!-- <img src="./github-metrics.svg" alt="GitHub Metrics"><br/> -->
 
 <!-- [![StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=11149305&layout=compact&theme=dark)](https://stackoverflow.com/users/11149305/bvandercar) -->
 
