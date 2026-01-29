@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <h3>🖥️🖥️&nbsp;&nbsp;&nbsp;  Frontend  &nbsp;&nbsp;&nbsp;🖥️🖥️</h3>
+      <h3>🖥️🖥️&nbsp;&nbsp;&nbsp;  Core Development  &nbsp;&nbsp;&nbsp;🖥️🖥️</h3>
     </td>
   </tr>
   <tr>
@@ -15,23 +15,27 @@
     <td align="center">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"><br/>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     </td>
   </tr>
   <tr>
     <td align="right"><em>Dev Tools</em></td>
     <td align="center">
+      <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white" alt="Biome">
       <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint">
     </td>
   </tr>
   <tr>
     <td align="right"><em>Libraries</em></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
       <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
     </td>
   </tr>
   <tr>
@@ -50,7 +54,7 @@
     <td align="center">
       <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress">
       <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
-      <img src="https://img.shields.io/badge/Puppeteer-white.svg?style=for-the-badge&logo=Puppeteer&logoColor=black" alt="Puppeteer">
+      <img src="https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoColor=black" alt="Puppeteer">
     </td>
   </tr>
   <tr>
@@ -69,39 +73,40 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>📝📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝📝</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><em>Scripting</em></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><em>Hardware</em></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
       <h3>🛠️🛠️&nbsp;&nbsp;&nbsp;  Tools  &nbsp;&nbsp;&nbsp;🛠️🛠️</h3>
     </td>
   </tr>
+ <tr>
+    <td align="right"><em>AI</em></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+       <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot">
+      <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+      <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit">
+    </td>
+  </tr>
   <tr>
+    <td align="right"><em>CI / CD</em></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+    </td>
+  </tr>
+   <tr>
     <td align="right"><em>Project<br/>Mgmt.</em></td>
     <td align="center">
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
       <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
     </td>
   </tr>
+   <tr>
+    <td colspan="2" align="center">
+      <h3>📝📝&nbsp;&nbsp;&nbsp;  Other Languages  &nbsp;&nbsp;&nbsp;📝📝</h3>
+    </td>
+  </tr>
   <tr>
-    <td align="right"><em>Version Control</em></td>
+    <td><i>Hardware</i></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-      <img src="https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white" alt="Apache Subversion">
+      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
     </td>
   </tr>
 </table>
@@ -111,7 +116,7 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><strong>⚛️⚛️&nbsp;&nbsp;&nbsp; React Websites &nbsp;&nbsp;&nbsp;⚛️⚛️</strong></td>
+      <td align="center"><h3>⚛️⚛️&nbsp;&nbsp;&nbsp; React Websites &nbsp;&nbsp;&nbsp;⚛️⚛️</h3></td>
     </tr>
     <tr>
       <td align="center">
@@ -141,7 +146,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>📦📦&nbsp;&nbsp;&nbsp; NPM Packages &nbsp;&nbsp;&nbsp;📦📦</strong></td>
+      <td align="center"><h3>📦📦&nbsp;&nbsp;&nbsp; NPM Packages &nbsp;&nbsp;&nbsp;📦📦</h3></td>
     </tr>
     <tr>
       <td align="center">
@@ -158,7 +163,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>🌔🌔&nbsp;&nbsp;&nbsp; Python Packages &nbsp;&nbsp;&nbsp;🌖🌖</strong></td>
+      <td align="center"><h3>🌔🌔&nbsp;&nbsp;&nbsp; Python Packages &nbsp;&nbsp;&nbsp;🌖🌖</h3></td>
     </tr>
     <tr>
       <td align="center">
