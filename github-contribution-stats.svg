@@ -1,8 +1,8 @@
 
       <svg
         width="413"
-        height="240"
-        viewBox="0 0 413 240"
+        height="273"
+        viewBox="0 0 413 273"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -384,6 +384,54 @@
    <g class="cell-text">
       <text x="7.2" y="18.5">
       S
+      </text>
+    </g>
+    
+    
+    </g>
+        
+    </a>
+    </g>
+  </g><g transform="translate(0, 132)">
+    <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
+    <a xlink:href="https://github.com/mammadataei/cypress-vite" target="_blank">
+      <defs>
+        <clipPath id="myCircle">
+          <circle cx="12.5" cy="12.5" r="12.5" fill="#FFFFFF" />
+        </clipPath>
+      </defs>
+      <image xlink:href="data:image/image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIADIAMgMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AO8tLyNVvZCxO2PIyOvJOf5UmgznfGNoJMpYjqFA6fzFcjFqDxxMhY8rgnPbrWnpGpC1cueu3A56UlO7E4HqFrKJlLck+55qRgEGSSUPBz2rzi9+I2meGFCX0rvKVykUY+Zsd/bnNXdB+Kug+IrhbNTJbXMg/dpKOHPpkd6vToTZl28vTBqs6SEMjgA89ORzWBa3SIbBd3zpPvOewI2nH4EGpNSuR/agQsfLzjOfu8n/ABFYBuXW4ESjJQSbM9/88flUSnqXGOh1sMAlgjkZgWdQx59R9af9kT+8Pz/+vWTb3MYtoh5n8A/lUn2qP/noKtSRHKzivNLADnp+VWYJ9gHPvWUXZIHkyMDgn8OKS4me1sxckDGQiqeMk/5JrkTuzpLtxdafBrL6hqGnPejy44o9qB9nLEnHbqKvTSafNcCGz0RrOexuIZln8oKBhxnnH90muJt/F12Jrq3EixJKQiTOMIrDsfw/p61euvFupWmnOj3SX80mJHMTLmNVPJOMgdqGpKVjePI6Z1dzel5j8xZ/161V+0xefEMYbkDPHY/4VzkOovI6OrGRJU3bgPmT1Bxx+Perm8CSOTA3jK5Pof8AIptNPUxTT2NuHUSsMaqRgKAOlP8A7Tf1H6VjJI6RqpAOABzTvOb+6tF2FkdJ/ZdpY2k81wC0SKXffyAAOeK888ReI31Kye2SNIoA24KijtXYfEDVRZeHzahts1023g87Byf6D8a8wXEsOT/FVUordkVJdEULS9lgE9q0K3NvJmQqeueOh/Kr8usQWekvbaZZmI3IKSSSgZ6cgfn1rPlhEaS+u3/2ZagfAW3H+zz/AN9GtuVXuRzO1jcsJb6xS3KSI4ibdhlDBR+NejaJDb6rZJdog8wEJIgGQDjt3HavN7e4Z4I4mJES849T611fw+1AJrlxZEnZcKSqj+8vP8s1nUV1cqDs7G+2k3ysQrrtBwM4zik/sq//AL6V13l57H/vijyvY/8AfFc+p0aHlnxMJOt2wJOPs44/4E1cpD/qE+ldV8S/+Q5bf9e4/wDQmrlYf9Qn0rpp/CjmnuRX3/Hpn1l/pWfcf61f9xP/AEEVoX//AB5j/rr/AOy1n3P+tX/cT/0EVqQa1nyyA8jFaXhFivjezAJA+0Y4/Gs2y+8n0rR8J/8AI8Wf/Xx/jWctilue3Fjk8mk3N6n86D94/WkrkOk//9k=" width="25" height="25" clip-path="url(#myCircle)"/>
+      <g transform="translate(30,16)">
+        <text class="stat bold">cypress-vite</text>
+      </g>
+      
+    <g data-testid="value-cell" transform="translate(229, 0)">
+        
+   <g class="cell-text">
+      <text x="7.2" y="18.5">
+      15
+      </text>
+    </g>
+    
+    </g>
+        ,
+    <g data-testid="value-cell" transform="translate(279, 0)">
+        
+   <g class="cell-text">
+      <text x="7.2" y="18.5">
+      14
+      </text>
+    </g>
+    
+    </g>
+        ,
+    <g data-testid="value-cell" transform="translate(335, 0)">
+        
+    <circle class="rank-circle-rim" cx="12.5" cy="12.5" r="14" />
+    
+   <g class="cell-text">
+      <text x="4" y="18.5">
+      S+
       </text>
     </g>
     
